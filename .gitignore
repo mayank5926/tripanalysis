@@ -1,0 +1,13 @@
+# Data (inputs and generated outputs)
+Input Files/
+Steps/
+IMEI Dumps/
+*.xls
+*.xlsx
+
+# Python / test artifacts
+__pycache__/
+.pytest_cache/
+.coverage
+htmlcov/
+.venv/
